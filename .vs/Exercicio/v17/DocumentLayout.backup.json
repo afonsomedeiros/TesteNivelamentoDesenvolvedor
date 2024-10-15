@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\benja\\downloads\\teste-nivelamento-desenvolvedor-csharp-api\\questao5\\infrastructure\\data\\currentaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\data\\currentaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\benja\\downloads\\teste-nivelamento-desenvolvedor-csharp-api\\questao5\\infrastructure\\data\\idempotencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\data\\idempotencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\benja\\downloads\\teste-nivelamento-desenvolvedor-csharp-api\\questao5\\domain\\interfaces\\icurrentaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\interfaces\\icurrentaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\benja\\downloads\\teste-nivelamento-desenvolvedor-csharp-api\\questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\benja\\downloads\\teste-nivelamento-desenvolvedor-csharp-api\\questao5\\application\\handlers\\createcurrentaccountactivityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\handlers\\createcurrentaccountactivityhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\benja\\downloads\\teste-nivelamento-desenvolvedor-csharp-api\\questao5\\application\\handlers\\currentaccountbalancehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\handlers\\currentaccountbalancehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\benja\\downloads\\teste-nivelamento-desenvolvedor-csharp-api\\questao5\\infrastructure\\services\\controllers\\currentaccountactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\controllers\\currentaccountactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\benja\\downloads\\teste-nivelamento-desenvolvedor-csharp-api\\questao5\\application\\queries\\responses\\currentaccountbalanceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\queries\\responses\\currentaccountbalanceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\benja\\downloads\\teste-nivelamento-desenvolvedor-csharp-api\\questao5\\domain\\interfaces\\icurrentaccountactivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\interfaces\\icurrentaccountactivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\benja\\downloads\\teste-nivelamento-desenvolvedor-csharp-api\\questao5\\infrastructure\\data\\currentaccountactivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\data\\currentaccountactivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\benja\\downloads\\teste-nivelamento-desenvolvedor-csharp-api\\questao5\\application\\commands\\responses\\createcurrentaccountactivityresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\commands\\responses\\createcurrentaccountactivityresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\benja\\downloads\\teste-nivelamento-desenvolvedor-csharp-api\\questao5\\domain\\exceptions\\invalidaccountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\exceptions\\invalidaccountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\benja\\downloads\\teste-nivelamento-desenvolvedor-csharp-api\\questao5\\domain\\exceptions\\inactiveaccountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\exceptions\\inactiveaccountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\benja\\downloads\\teste-nivelamento-desenvolvedor-csharp-api\\questao5\\domain\\exceptions\\invalidtypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\exceptions\\invalidtypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\benja\\downloads\\teste-nivelamento-desenvolvedor-csharp-api\\questao5\\domain\\exceptions\\invalidvalueexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\domain\\exceptions\\invalidvalueexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Program.cs",
+              "RelativeDocumentMoniker": "Questao5\\Program.cs",
+              "ToolTip": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Program.cs",
+              "RelativeToolTip": "Questao5\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:05:09.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICurrentAccountActivityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Domain\\Interfaces\\ICurrentAccountActivityRepository.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Interfaces\\ICurrentAccountActivityRepository.cs",
+              "ToolTip": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Domain\\Interfaces\\ICurrentAccountActivityRepository.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Interfaces\\ICurrentAccountActivityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:41:42.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrentAccountBalanceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Application\\Queries\\Responses\\CurrentAccountBalanceResponse.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Queries\\Responses\\CurrentAccountBalanceResponse.cs",
+              "ToolTip": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Application\\Queries\\Responses\\CurrentAccountBalanceResponse.cs",
+              "RelativeToolTip": "Questao5\\Application\\Queries\\Responses\\CurrentAccountBalanceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:37:05.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrentAccountBalanceHandler.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Application\\Handlers\\CurrentAccountBalanceHandler.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Handlers\\CurrentAccountBalanceHandler.cs",
+              "ToolTip": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Application\\Handlers\\CurrentAccountBalanceHandler.cs",
+              "RelativeToolTip": "Questao5\\Application\\Handlers\\CurrentAccountBalanceHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:34:55.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICurrentAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Domain\\Interfaces\\ICurrentAccountRepository.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Interfaces\\ICurrentAccountRepository.cs",
+              "ToolTip": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Domain\\Interfaces\\ICurrentAccountRepository.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Interfaces\\ICurrentAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:16:26.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateCurrentAccountActivityResponse.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Application\\Commands\\Responses\\CreateCurrentAccountActivityResponse.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Commands\\Responses\\CreateCurrentAccountActivityResponse.cs",
+              "ToolTip": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Application\\Commands\\Responses\\CreateCurrentAccountActivityResponse.cs",
+              "RelativeToolTip": "Questao5\\Application\\Commands\\Responses\\CreateCurrentAccountActivityResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:12:11.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvalidTypeException.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Domain\\Exceptions\\InvalidTypeException.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Exceptions\\InvalidTypeException.cs",
+              "ToolTip": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Domain\\Exceptions\\InvalidTypeException.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Exceptions\\InvalidTypeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:01:00.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvalidValueException.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Domain\\Exceptions\\InvalidValueException.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Exceptions\\InvalidValueException.cs",
+              "ToolTip": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Domain\\Exceptions\\InvalidValueException.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Exceptions\\InvalidValueException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:00:33.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InactiveAccountException.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Domain\\Exceptions\\InactiveAccountException.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Exceptions\\InactiveAccountException.cs",
+              "ToolTip": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Domain\\Exceptions\\InactiveAccountException.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Exceptions\\InactiveAccountException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:59:51.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvalidAccountException.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Domain\\Exceptions\\InvalidAccountException.cs",
+              "RelativeDocumentMoniker": "Questao5\\Domain\\Exceptions\\InvalidAccountException.cs",
+              "ToolTip": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Domain\\Exceptions\\InvalidAccountException.cs",
+              "RelativeToolTip": "Questao5\\Domain\\Exceptions\\InvalidAccountException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:58:40.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrentAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Infrastructure\\Data\\CurrentAccountRepository.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Data\\CurrentAccountRepository.cs",
+              "ToolTip": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Infrastructure\\Data\\CurrentAccountRepository.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Data\\CurrentAccountRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA9wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:55:28.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CurrentAccountActivityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Infrastructure\\Data\\CurrentAccountActivityRepository.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Data\\CurrentAccountActivityRepository.cs",
+              "ToolTip": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Infrastructure\\Data\\CurrentAccountActivityRepository.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Data\\CurrentAccountActivityRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAD4vzcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:32:54.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateCurrentAccountActivityHandler.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Application\\Handlers\\CreateCurrentAccountActivityHandler.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Handlers\\CreateCurrentAccountActivityHandler.cs",
+              "ToolTip": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Application\\Handlers\\CreateCurrentAccountActivityHandler.cs",
+              "RelativeToolTip": "Questao5\\Application\\Handlers\\CreateCurrentAccountActivityHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:29:07.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CurrentAccountActivityController.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Infrastructure\\Services\\Controllers\\CurrentAccountActivityController.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Controllers\\CurrentAccountActivityController.cs",
+              "ToolTip": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Infrastructure\\Services\\Controllers\\CurrentAccountActivityController.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Controllers\\CurrentAccountActivityController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:25:13.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdempotencyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Infrastructure\\Data\\IdempotencyRepository.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Data\\IdempotencyRepository.cs",
+              "ToolTip": "C:\\Users\\benja\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API\\Questao5\\Infrastructure\\Data\\IdempotencyRepository.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Data\\IdempotencyRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAWwD8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:21:52.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
